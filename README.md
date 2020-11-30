@@ -6,7 +6,7 @@ NCCU Business Data Communication 109-1
 Download Miniconda (Python & Jupyter)
 <br/>
 <br/>
-##Terminal:
+## Terminal:
 <br/>
 | Action | Command for MacOS |
 | --- | --- |
