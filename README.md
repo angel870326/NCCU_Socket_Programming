@@ -13,7 +13,7 @@ Download Miniconda (Python & Jupyter)
 | Action | Command for MacOS |
 | --- | --- |
 | Open Jupyter | ```sudo jupyter notebook --allow-root ```|
-| Change browser | Create a notebook configuration file: <br/>```jupyter notebook --generate-config``` <br/> Open jupyter_notebook_config.py: <br/>```open /Users/angelwang/.jupyter/jupyter_notebook_config.py``` <br/> Add: <br/>```c.NotebookApp.browser='open -a /Applications/Google\ Chrome.app %s'```|
+| Change browser | - Create a notebook configuration file: <br/>```jupyter notebook --generate-config``` <br/> - Open jupyter_notebook_config.py: <br/>```open /Users/angelwang/.jupyter/jupyter_notebook_config.py``` <br/> - Add: <br/>```c.NotebookApp.browser='open -a /Applications/Google\ Chrome.app %s'```|
 
 <br/>
 
