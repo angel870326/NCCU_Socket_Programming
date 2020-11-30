@@ -12,4 +12,5 @@ Download Miniconda(Python & Jupyter)
 Terminal:
 <br/>
 | Open Jupyter | sudo jupyter notebook --allow-root |
+| --- | --- |
 | Change browser | open /Users/angelwang/.jupyter/jupyter_notebook_config.py <br/> Add: <br/>c.NotebookApp.browser='open -a /Applications/Google\ Chrome.app %s'|
