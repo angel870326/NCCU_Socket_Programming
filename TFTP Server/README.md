@@ -7,7 +7,7 @@ Layer 4: UDP<br/>
 TFTP Server: UDP port 69<br/>
 
 ## Messages
-<br/><br/>
+<br/>
 | Operation Code | Message |
 | --- | --- |
 | 01 | RRQ (Read Request) <br/>從 server 下載檔案<br/>|
