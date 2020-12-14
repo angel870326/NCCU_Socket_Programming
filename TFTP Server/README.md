@@ -3,7 +3,7 @@
 簡單檔案傳輸協定<br/>
 RFC 1350<br/>
 Layer 7 protocal<br/>
-Layer 4: UDP<br/>
+Layer 4: UDP（所以不用 handshaking）<br/>
 TFTP Server: UDP port 69<br/>
 
 ## Messages
@@ -20,6 +20,5 @@ TFTP Server: UDP port 69<br/>
 <br/>
 RRQ 和 WRQ 格式相同<br/>
 每個 message 的前 2 個 bytes 會記載這個 message 的種類（operation code）<br/>
-
 
 
