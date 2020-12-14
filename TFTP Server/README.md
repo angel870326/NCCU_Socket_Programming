@@ -12,8 +12,8 @@ TFTP Server: UDP port 69<br/>
 
 | Operation Code | Message |
 | --- | --- |
-| 01 | RRQ (Read Request) <br/>從 server 下載檔案<br/>|
-| 02 | WRQ (Write Request) <br/>上傳檔案至 server<br/>|
+| 01 | **RRQ (Read Request)** <br/>- 從 server 下載檔案<br/>|
+| 02 | **WRQ (Write Request)** <br/>- 上傳檔案至 server<br/>|
 | 03 | - |
 | 04 | - |
 | 05 | - |
