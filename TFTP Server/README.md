@@ -17,6 +17,7 @@ TFTP Server: UDP port 69<br/>
 | 03 | **DATA** <br/>- 傳送檔案資料，上傳和下載格式都一樣<br/> |
 | 04 | **ACK** <br/>- acknowledgement<br/>|
 | 05 | **ERROR** <br/>- 回報傳輸錯誤<br/>|
+<br/>
 RRQ 和 WRQ 格式相同<br/>
 每個 message 的前 2 個 bytes 會記載這個 message 的種類（operation code）<br/>
 
