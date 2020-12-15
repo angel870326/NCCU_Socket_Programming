@@ -19,8 +19,9 @@ TFTP Server: UDP port 69<br/>
 | 05 | **ERROR** <br/>- 回報傳輸錯誤<br/>|
 <br/>
 RRQ 和 WRQ 格式相同<br/>
-每個 message 的前 2 個 bytes 會記載這個 message 的種類（operation code）<br/>
+每個 message 的前 2 個 bytes 會記載這個 message 的種類（operation code）
 
+<br/>
 <br/>
 
 >Details <br/>https://github.com/angel870326/Socket_Programming/blob/main/TFTP%20Server/TFTP_intro_note.pdf <br/>Source <br/> https://youtu.be/N9f3WQhf1vQ
