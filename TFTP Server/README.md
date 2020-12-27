@@ -24,7 +24,9 @@ RRQ 和 WRQ 格式相同<br/>
 <br/><br/>
 
 ### Details
+
 <br/>
+
 >TFTP: <br/>https://github.com/angel870326/Socket_Programming/blob/main/TFTP%20Server/TFTP_intro_note.pdf <br/>(Source: https://youtu.be/N9f3WQhf1vQ)<br/>
 >Endianness: <br/>https://github.com/angel870326/Socket_Programming/blob/main/TFTP%20Server/Endianness.pdf <br/>(Source: https://youtu.be/KPEPyS_lBzM)<br/>
 
