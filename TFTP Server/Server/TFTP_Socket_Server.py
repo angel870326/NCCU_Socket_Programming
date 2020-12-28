@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### TFTP_Socket_Server_105204027 ###
+# ### TFTP_Socket_Server_Angel ###
 
 # In[1]:
 
@@ -161,8 +161,8 @@ def main():
     # optname: Provide special options for use. Ex: SO_BINDTODEVICE, SO_BROADCAST, SO_DONTROUTE, SO_REUSEADDR, etc.
     s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     
-    # Bind local host and port number 6969
-    s.bind(('127.0.0.1', 6969))
+    # Bind local host and port number 69
+    s.bind(('127.0.0.1', 69))
     
     print("TFTP Server start successfully!")
     print("Server is running...")
